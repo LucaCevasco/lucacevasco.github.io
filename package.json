@@ -5,7 +5,7 @@
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Portafolio personal hecho en Bootstrap 4.",
     "keywords": [
         "css",
         "sass",
