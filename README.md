@@ -1,4 +1,5 @@
-Proyecto personal de portafolio para presentacion personal
+
+Personal proyect for presentation and portfolio showcase!
 
 ## Copyright and License
 

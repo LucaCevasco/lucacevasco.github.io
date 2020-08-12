@@ -1,6 +1,6 @@
 {
     "title": "Portafolio",
-    "name": "Portafolio",
+    "name": "portafolio",
     "version": "5.0.5",
     "scripts": {
         "start": "gulp watch"
